@@ -1,1 +1,1 @@
-isso vai parar antes ou depois do meu primeiro post?
+Logs about random stuff I do.
