@@ -1,2 +1,2 @@
 Logs about random stuff I do.
-[](posts)
+  * [Posts](_posts)
